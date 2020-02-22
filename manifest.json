@@ -1,0 +1,33 @@
+{
+    "name": "APIS INC. DICTIONARY",
+    "short_name": "PWA DICTIONARY",
+    "icons": [{
+        "src": "p.svg",
+        "sizes": "128x128",
+        "type": "image/png"
+    }, {
+        "src": "p.svg",
+        "sizes": "144x144",
+        "type": "image/png"
+    }, {
+        "src": "p.svg",
+        "sizes": "152x152",
+        "type": "image/png"
+    }, {
+        "src": "p.svg",
+        "sizes": "192x192",
+        "type": "image/png"
+    }, {
+        "src": "p.svg",
+        "sizes": "256x256",
+        "type": "image/png"
+    }, {
+        "src": "p.svg",
+        "sizes": "512x512",
+        "type": "image/png"
+    }],
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#0070e0",
+    "theme_color": "#0070e0"
+}
